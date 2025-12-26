@@ -1,31 +1,38 @@
 # Java Programs (College Coursework)
 
-## Overview
-This repository contains Java programs written during my college coursework.
-The programs cover core Java concepts, Object-Oriented Programming (OOP),
-data structures, and basic algorithms.
+A collection of Java programs and personal notes from my college coursework.  
+This repo is mainly for **practice + revision**, and to show my progress in **Core Java, OOP, and basic Data Structures/Algorithms**.
 
-## Topics Covered
-- Java fundamentals
-- Object-Oriented Programming (classes, inheritance, polymorphism)
-- Arrays and ArrayLists
-- Searching and sorting algorithms
+---
+
+## What’s inside
+
+### ✅ Java Programs
+Examples and practice programs covering:
+- Java fundamentals (variables, loops, methods)
+- OOP (classes/objects, constructors, overloading, inheritance, polymorphism, interfaces)
+- Arrays / ArrayLists
+- Searching & Sorting (Linear/Binary Search, Selection/Insertion Sort, etc.)
 - Exception handling
-- File I/O
-- Data structures (stack, list, etc.)
+- File I/O (streams, reading input)
+- Small mini-programs / labs / exam practice
 
-## Folder Structure
-- Chapter-wise Java programs
-- Lab exercises
-- Practice problems
-- Data Structures implementations
+### 📚 Notes (PDF/DOCX)
+I also keep some topic notes as PDFs (and a few DOCX files), organized like:
+- `notes/Chapter 5 6/` — constructor overloading, method overloading, enums, getters/setters, wrapper classes, etc.
+- `notes/Chapter 7/` — arrays
+- `notes/Chapter 8/` — abstraction, inheritance, interfaces, polymorphism
+- `notes/Chapter 9/` — exceptions
+- `notes/Chapter 10/` — I/O streams, Scanner, serialization
+- `notes/Data Structure/` — search, sort, stacks (basics)
 
-## Purpose
-This repository is intended for:
-- Academic reference
-- Practice and revision
-- Showcasing Java and DSA skills on GitHub and LinkedIn
+> If any PDF contains professor slides/textbook pages, it’s safer to keep this repository **PRIVATE**.
 
-## Author
-Kyaw Soe Lwin
+---
+
+## How to run (Command Line)
+
+### 1) Compile a single file
+```bash
+javac FileName.java
 
