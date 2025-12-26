@@ -1,0 +1,3 @@
+Doom,62394,67453,doom@my.smccd.edu,82 San Miguel Avenue
+Daisy,65734,28567,daisy@my.smccd.edu,Oakland Avenue
+Fury,45366,46234,fury@my.smccd.edu,Carter Avenue

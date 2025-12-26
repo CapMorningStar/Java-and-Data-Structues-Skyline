@@ -1,0 +1,15 @@
+Enter the number of families: 
+7
+Enter the incomes for each family: 
+500
+10000
+1000
+400
+5000
+800
+1500
+Families earning less than 10% of the maximum income(1000.0)
+Income: 500
+Income: 400
+Income: 800
+Number of families earning less than 10% of the maximum income: 3

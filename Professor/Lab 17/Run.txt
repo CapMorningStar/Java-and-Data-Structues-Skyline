@@ -1,0 +1,12 @@
+Enter the amounts: $2
+Enter the amounts: $abcd
+Error: Invalid Input. Please enter valid amount
+Enter the amounts: $0
+Error: The The Reciept amount is zero
+Enter the amounts: $-1
+Error: Reciept cannot be less than zero
+Enter the amounts: $4
+Enter the amounts: $3
+Enter the amounts: $4
+
+total Receipt: $13.0
